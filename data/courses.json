@@ -1,26 +1,38 @@
 [
     {
         "id": 1,
-        "name": "java"
+        "name": "java",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/wRkdHvM/asdfasdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.png"
     },
     {
         "id": 2,
-        "name": "python"
+        "name": "python",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/c2Pbtjn/Screenshot-2022-10-27-at-06-01-57-10-Minute-School-The-largest-online-classroom-of-Bangladesh.png"
     },
     {
         "id": 3,
-        "name": "css"
+        "name": "css",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/jMdJrjw/Screenshot-2022-10-27-at-06-02-13-10-Minute-School-The-largest-online-classroom-of-Bangladesh.png"
     },
     {
-        "id": 1,
-        "name": "java"
+        "id": 4,
+        "name": "java",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/GxZ3FRS/Screenshot-2022-10-27-at-06-03-05-10-Minute-School-The-largest-online-classroom-of-Bangladesh.png"
     },
     {
-        "id": 2,
-        "name": "python"
+        "id": 5,
+        "name": "python",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/QHZDL71/Screenshot-2022-10-27-at-06-04-36-10-Minute-School-The-largest-online-classroom-of-Bangladesh.png"
     },
     {
-        "id": 3,
-        "name": "css"
+        "id": 6,
+        "name": "css",
+        "detail": "this is detail",
+        "img": "https://i.ibb.co/QHZDL71/Screenshot-2022-10-27-at-06-04-36-10-Minute-School-The-largest-online-classroom-of-Bangladesh.png"
     }
 ]

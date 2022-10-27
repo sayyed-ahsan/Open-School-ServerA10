@@ -1,4 +1,4 @@
-const { request } = require('express');
+const { request, response } = require('express');
 const express = require('express');
 const app = express();
 const cors = require('cors');
@@ -19,6 +19,12 @@ app.get('/', (req, response) => {
 
 app.get('/courses', (req, response) => {
     response.send(courses)
+});
+
+app.get('/coursedetail/:id', (req, response) => {
+    const id = req.params.id
+    const courseDetails = courses.find(course => id == course.id)
+    response.send(courseDetails)
 });
 
 //---------------------------------------------
