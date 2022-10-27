@@ -4,6 +4,7 @@
         "name": "java",
         "detail": "this is detail",
         "price": 400,
+        "rating": "5 star",
         "img": "https://i.ibb.co/wRkdHvM/asdfasdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.png"
     },
     {
